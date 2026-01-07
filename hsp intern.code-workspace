@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../code with harry"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "hsp intern"
+	}
+}
